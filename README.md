@@ -9,7 +9,6 @@ It provides a unified framework to perform, benchmark, and visualise probabilist
 
 ```
 25NOV_PIPELINE/
-├── benchmarking_notebook.ipynb      # Unified benchmark + comparison notebook
 ├── tdlmc_modelling.ipynb            # Main forward-modelling notebook
 │
 ├── tdlmc_model.py                   # Model definitions & lens setup
@@ -18,8 +17,8 @@ It provides a unified framework to perform, benchmark, and visualise probabilist
 ├── tdlmc_benchmarking.py            # Runtime and performance tools
 ├── TDC_util.py                      # Utility functions (file parsing, helpers)
 │
-├── emcee_output/                    # Stored emcee chains
-├── nautilus_output/                 # Nautilus checkpoints
+├── emcee_output/                    # Stored emcee chains (empty)
+├── nautilus_output/                 # Nautilus checkpoints (empty)
 ├── TDC/                             # Time-Delay Challenge input data
 └── TDC_results/                     # Model outputs & analysis results
 ```
