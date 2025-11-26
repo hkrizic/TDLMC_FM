@@ -1,0 +1,30 @@
+Unit:
+	Length in arcsecond scale, 'phi_G' is Angle in radian system start from x axis anticlockwise.
+Cosmological para
+	FlatLambdaCDM, with Om=0.27 and H0: 66.643km/s/Mpc
+Pixel size is 0.13'' and 0.08'' before and after drizzle
+Time delay distance: TD_distance=(1+z_l)*D_l*D_s/D_ls:3079.858Mpc
+Time delay of BCD - A :
+	array([-11.645,  -9.403,  -2.139])days
+Zeropoint of filter (AB system): 	25.9463
+Lens/Source redshift:	[0.529, 2.81]
+Lens mass model:
+	SPEMD:{'theta_E': 1.27, 'q': 0.887, 'center_x': 0, 'center_y': 0, 'phi_G': 1.499, 'gamma': 2.202}
+	Shear: 	({'e1': 0.034, 'e2': 0.003}, {'b': 0.034, 'phi_G': 1.612})'	 Note that e1=-b*cos(2*phi_G); e2=-b*sin(2*phi_G)'
+Lens light: 
+	{'q': 0.985, 'amp_sersic': 0.064, 'n_sersic': 2.921, 'phi_G': 1.487, 'mag_sersic': 18.356, 'R_sersic': 0.961}
+Source light in source plane: 
+	Host galaxy name: UGC12158	CenterPos: array([ 0.01,  0.01])
+	Host mag: 21.695 mag	Host R_eff: 0.327 arcsec			 'The mag and R_eff are set by galfit value'
+AGN light:
+	AGN position in source plane:	0.01,0.01
+	AGN amplitude in source plane:	55.457
+	AGN position in image plane:	x: array([-0.088,  1.328, -1.307, -0.052])	y: array([-1.209,  0.057,  0.1  ,  1.227])
+	AGN amplitude in image plane:	array([ 296.782,  351.074,  390.911,  338.59 ])
+Host galaxy mag in the image plane: 18.958 mag, AGN total mag in the image plane: 18.099 mag
+Measured velocity dispersion (no error): 
+	294.551km/s
+kappa_ext: 
+	0.0037
+Time delay with external kappa i.e. TD_obs=TD*(1-k_ext):
+	array([-11.602,  -9.368,  -2.131])days

@@ -1,0 +1,8 @@
+Pixel size is 0.13'' and 0.08'' before and after drizzle
+Zeropoint of filter (AB system): 	25.9463
+Lens/Source redshift:	[0.529, 2.81]
+External Convergence: Kext= 0 +/- 0.025
+Measured velocity dispersion: 
+	324.371km/s, error level: 14.73km/s
+Time delay of BCD - A :
+	array([-11.025,  -9.211,  -2.145])days, error level: array([ 0.25,  0.25,  0.25])days
