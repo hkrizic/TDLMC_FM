@@ -2,7 +2,7 @@
 
 **TDLMC_FM** is a modular forward-modelling and Bayesian inference pipeline for the [**Time-Delay Lens Modelling Challenge (TDLMC)**](https://tdlmc.github.io).  
 It provides a unified framework to perform, benchmark, and visualise probabilistic lens inference using  
-[**Nautilus (nested sampling)**](https://nautilus-sampler.readthedocs.io/en/latest/) and [**emcee (MCMC)**](https://emcee.readthedocs.io/en/stable/), built on top of the [**Herculens**]((https://github.com/Herculens/herculens)) library.
+[**Nautilus (nested sampling)**](https://nautilus-sampler.readthedocs.io/en/latest/) and [**emcee (MCMC)**](https://emcee.readthedocs.io/en/stable/), built on top of the [**Herculens**](https://github.com/Herculens/herculens) library.
 
 
 ## Repository Structure
