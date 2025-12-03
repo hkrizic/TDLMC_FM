@@ -22,8 +22,3 @@ It provides a unified framework to perform, benchmark, and visualise probabilist
 ├── TDC/                             # Time-Delay Challenge input data
 └── TDC_results/                     # Model outputs & analysis results
 ```
-
-
-## License
-
-This project is released under the **MIT License**.
